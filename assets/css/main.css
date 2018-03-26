@@ -1,0 +1,223 @@
+body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	box-sizing: border-box;
+	font-family: 'Lato', sans-serif;
+}
+
+.row{
+	margin: 0;
+}
+
+.navbar-default{
+	border-radius: 0;
+	background-color: #403B84;
+}
+
+.navbar{
+	border: none;
+	margin-bottom: 0em;
+}
+
+.navbar-default .navbar-brand{
+	color: #F6E9E6;
+	font-family: 'Bree Serif', serif;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+    font-weight: 200;
+    font-size: 18px;
+	margin-left: 100px;
+}
+
+.navbar-default .navbar-brand:hover{
+	color: #F5B6C3;
+}
+
+.navbar-right{
+	margin-right: 100px;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: #F6E9E6;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #816AB9;
+    color: #F5B6C3;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #F6E9E6;
+	background-color: #403B84;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #F6E9E6;
+}
+
+.navbar-default .navbar-toggle:hover {
+	background-color: #403B84;
+}
+/**/
+
+#Ilike{
+	background: #403B84;
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+
+.text-welcome{
+	font-family: 'Bree Serif', serif;
+	font-size: 35px;
+	letter-spacing: 0.06em;
+	line-height: 1.1;
+	color: #F6E9E6;
+}
+
+.like-text{
+    padding-top: 50%;
+}
+
+#AboutMe{
+	background-color: #FFFFFF;
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+
+#description-about{
+	padding-top: 3rem;
+	padding-bottom: 8rem;
+}
+
+.text-about{
+	text-align: justify;
+	font-size: 14.9px;
+	color: #403B84;
+}
+
+.black-text{
+	font-weight: bold;
+}
+
+.download{
+	text-align: justify;
+	font-size: 15px;
+	color: #403B84;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 4rem;
+}
+
+.fa-download{
+	color: #403B84;
+	font-size: 25px;
+}
+h3{
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+	font-size: 40px;
+	letter-spacing: 0.06em;
+	color: #403B84;
+	font-weight: bold;
+	padding-top: 6rem;
+}
+
+h3.change-color-h3{
+	color: #F6E9E6;
+}
+
+#Skills{
+	background-color: #403B84;
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+
+#Projects{
+	background-color: #403B84;
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+
+.text-project{
+	padding-bottom: 3rem;
+}
+
+.galeria{
+	width: 100%;
+	height: 100%;
+	background-color: red;
+}
+
+.white-text{
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+div.col-md-4{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.cont-fuid{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+#Contact{
+	background-color: #403B84;
+	width: 100%;
+	height: 90vh;
+	position: relative;
+}
+
+h4{
+	font-weight: 400;
+	font-size: 18px;
+	text-align: center;
+	color: #F5B6C3;
+	line-height: 1.5;
+}
+
+#Footer{
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 10vh;
+	position: relative;
+}
+
+.footer-text{
+	text-align: center;
+}
+
+h5{
+	text-align: center;
+	font-size: 15px;
+	letter-spacing: 0.06em;
+	color: #403B84;
+	padding-top: 2rem;
+}
+
+.devicon-bootstrap-plain, .devicon-html5-plain, .devicon-css3-plain, .devicon-javascript-plain{
+	color: #F6E9E6;
+	font-size: 60px;
+	text-align: center;
+}
+
+.devicon-photoshop-plain, .devicon-illustrator-plain{
+	color: #F6E9E6;
+	font-size: 60px;
+}
+
+.asd{
+	padding-bottom: 4rem;
+	padding-top: 6rem;
+}
+
+.description{
+	color: #F6E9E6;
+}
