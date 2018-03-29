@@ -132,8 +132,27 @@ h3.change-color-h3{
 #Skills{
 	background-color: #403B84;
 	width: 100%;
-	height: 100vh;
+	height: auto;
 	position: relative;
+}
+
+.hab-icon{
+	padding: 5rem 0;
+}
+
+.title-habilidades{
+	color: #F6E9E6;
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+#txt-margin{
+	margin: 0 20px;
+}
+
+.fa-search, .fa-code, .fa-pencil-alt{
+	color: #F6E9E6;
+	font-size: 30px;
 }
 
 #Projects{
