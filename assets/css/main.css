@@ -155,7 +155,11 @@ h3.change-color-h3{
 
 .white-text{
 	font-size: 30px;
-	font-weight: lighter;
+	font-weight: medium;
+}
+
+h4.white-text{
+	color: #403B84!important;
 }
 
 div.col-md-4{
@@ -171,7 +175,7 @@ div.col-md-4{
 #Contact{
 	background-color: #403B84;
 	width: 100%;
-	height: 90vh;
+	height: auto;
 	position: relative;
 }
 
@@ -181,6 +185,26 @@ h4{
 	text-align: center;
 	color: #F5B6C3;
 	line-height: 1.5;
+}
+
+.fa-envelope, .fa-phone, .fa-linkedin-in, .fa-github{
+	color: #F6E9E6;
+	font-size: 30px;
+}
+
+.contactme{
+	padding-top: 8rem; 
+}
+
+.redes{
+	color: #F6E9E6;
+	padding-top: 0;
+	font-weight: bolder; 
+}
+
+#thanks{
+	padding: 7rem 0 7rem 0;
+	font-size: 20px;
 }
 
 #Footer{
@@ -211,11 +235,6 @@ h5{
 .devicon-photoshop-plain, .devicon-illustrator-plain{
 	color: #F6E9E6;
 	font-size: 60px;
-}
-
-.asd{
-	padding-bottom: 4rem;
-	padding-top: 6rem;
 }
 
 .description{
