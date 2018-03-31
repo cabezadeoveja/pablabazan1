@@ -148,6 +148,8 @@ h3.change-color-h3{
 
 #txt-margin{
 	margin: 0 20px;
+	font-size: 17.1px;
+	text-align: justify;
 }
 
 .fa-search, .fa-code, .fa-pencil-alt{
