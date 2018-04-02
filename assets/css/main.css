@@ -89,7 +89,6 @@ body{
 
 #description-about{
 	padding-top: 3rem;
-	padding-bottom: 8rem;
 }
 
 .text-about{
@@ -108,13 +107,40 @@ body{
 	color: #403B84;
 	font-weight: bold;
 	text-align: center;
-	padding-top: 4rem;
+	padding-top: 2.4rem;
 }
 
-.fa-download{
+.fa-behance{
 	color: #403B84;
 	font-size: 25px;
 }
+
+.cont-foto{
+	padding-top: 3rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.fotoperfil{
+	border-radius: 20rem;
+	width: 70%;
+	height: 70%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.skills-tools{
+	padding-top: 3em;
+	font-size: 14.9px;
+	color: #403B84;
+	line-height: 2;
+	padding-bottom: 10rem;
+}
+
 h3{
 	text-align: center;
 	font-family: 'Bree Serif', serif;
@@ -137,7 +163,7 @@ h3.change-color-h3{
 }
 
 .hab-icon{
-	padding: 5rem 0;
+	padding: 8rem 0 6rem 0;
 }
 
 .title-habilidades{
@@ -148,8 +174,10 @@ h3.change-color-h3{
 
 #txt-margin{
 	margin: 0 20px;
-	font-size: 17.1px;
+	font-size: 1.42rem;
 	text-align: justify;
+	font-weight: medium;
+	padding-bottom: 7rem;
 }
 
 .fa-search, .fa-code, .fa-pencil-alt{
