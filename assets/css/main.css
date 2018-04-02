@@ -136,8 +136,9 @@ body{
 	font-size: 14.9px;
 	color: #403B84;
 	line-height: 2;
-	text-align: center;
+	text-align: justify;
 	padding-bottom: 10rem;
+	letter-spacing: 0.04em;
 }
 
 h3{
