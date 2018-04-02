@@ -117,16 +117,14 @@ body{
 
 .cont-foto{
 	padding-top: 3rem;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	text-align: center;
 }
 
 .fotoperfil{
-	border-radius: 30rem;
 	width: 70%;
 	height: 70%;
+}
+
+.foto-div{
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -138,6 +136,7 @@ body{
 	font-size: 14.9px;
 	color: #403B84;
 	line-height: 2;
+	text-align: center;
 	padding-bottom: 10rem;
 }
 
